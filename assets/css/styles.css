@@ -1,0 +1,8 @@
+.logo {
+  font-size: clamp(0.25rem, 0.0rem + 3vw, 1.2rem);
+}
+
+h1 {
+  margin: 0px 0px 15px;
+}
+
